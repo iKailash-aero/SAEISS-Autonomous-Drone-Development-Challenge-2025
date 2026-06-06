@@ -86,10 +86,10 @@ UAV Design • Autonomous Systems • CFD Analysis • Flight Controller Integra
 
 ## Team
 
-Kailash Kumar R
-Nandana Mahesh
-Parthibanraj P
-Chandru R
+Kailash Kumar R |
+Nandana Mahesh |
+Parthibanraj P |
+Chandru R |
 Navaneeth R
 Janarthanan S
 Gopinath Pandian N
