@@ -90,11 +90,11 @@ Kailash Kumar R |
 Nandana Mahesh |
 Parthibanraj P |
 Chandru R |
-Navaneeth R
-Janarthanan S
-Gopinath Pandian N
-Praveenraj V
-Lithila A
+Navaneeth R |
+Janarthanan S |
+Gopinath Pandian N |
+Praveenraj V |
+Lithila A |
 Bharathi G
 
 Bachelor of Engineering – Aeronautical Engineering
